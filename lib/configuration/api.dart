@@ -1,0 +1,11 @@
+const baseUrl="http://127.0.0.1:8000/api";
+const logInRoute="/login";
+const registerRoute="/register";
+const updateRoute="/activities/";
+const deleteActivityRoute="/activities/";
+const addActivityRoute="/activities";
+const  addOrderRoute="/auth/3/needs";     //لم يكتمل
+const getdatacharityRoute="/charities";
+const getCurrentActivityRoute="/activities/0";
+const getPastActivityRoute="/activities/1";
+const getOrderMenuRoute="/auth/3/needs";//  لم يكتمل
